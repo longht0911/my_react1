@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <p>longht</p>
+      <p>alo alo</p>
     </div>
   );
 }
